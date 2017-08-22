@@ -1,4 +1,4 @@
-# 03_Kompass
+# Kompass
 
 Vi lager et kompass med micro:bit.
 PXT prosjekt: https://makecode.microbit.org/_iyDRE5UfMKst
